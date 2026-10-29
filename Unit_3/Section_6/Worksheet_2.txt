@@ -1,1 +1,5 @@
 SDN Worksheet Unit 3 Section 6
+6. Components and Control of Network Slices (Discussion)
+Problem 6: Discuss the key logical components that constitute a network slice within a shared
+physical infrastructure. Explain how the control and management of each slice are typically achieved,
+emphasizing the role of orchestration.
